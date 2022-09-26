@@ -1,0 +1,5 @@
+{
+	"git.requireGitUserConfig": true,
+	"git.autofetch": false,
+	"git.closeDiffOnOperation": false
+}
